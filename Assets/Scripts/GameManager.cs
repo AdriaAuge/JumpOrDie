@@ -6,7 +6,6 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-
     public int lives;
     public int score;
     public int starsCount;
